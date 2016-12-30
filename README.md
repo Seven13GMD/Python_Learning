@@ -6,7 +6,7 @@
 <br>
 3.git commit -m "first commit"
 <br>
-4.git remote add origin https://github.com/Seven13G/Python_Learning.git
+4.git remote add origin https://github.com/Seven13GMD/Python_Learning.git
 <br>
 5.git push -u origin master
 <br>
