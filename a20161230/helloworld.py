@@ -45,6 +45,7 @@ print(s[1:])
 print(s[2:-1])
 '''
 #dict
+'''
 dict={}
 dict['one']="This is one"
 dict[2]="This is two"
@@ -55,5 +56,8 @@ print (dict[2])
 print (abcdict)
 print (abcdict.keys())
 print (abcdict.values())
+'''
+
+
 
     
